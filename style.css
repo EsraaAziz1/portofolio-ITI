@@ -1,0 +1,110 @@
+
+.loading,
+.testimonial,
+.footer {
+  background-color: #080808;
+
+}
+
+.navbar,
+.card-footer {
+  color: #FFFFFF;
+  background-color: #1B1B1B;
+}
+.navbar .navbar-toggler{
+  color: white;
+  font-size: 25px;
+  border-color: white;
+}
+
+.navbar .navbar-toggler:focus{
+  box-shadow: none;
+}
+
+.navbar .navbar-toggler[aria-expanded="true"]{
+  border-color: rgba(64, 142, 0, 0.71);
+}
+
+.collapse {
+  color: #FFFFFF;
+}
+
+.card-text {
+  color: #9C9C9C;
+}
+
+.hero-content {
+  width: 67%;
+  height: 50%;
+}
+
+.main-btn {
+  background-color: #3F8E00;
+}
+body {
+  overflow-x: hidden;
+}
+.main-btn:hover{
+  border: 1px solid #62BA1B;
+  box-shadow: 0px 8px 30px 0px rgba(63, 142, 0, 0.5);
+}
+.contentIcons a {
+  border-color: #393939;
+}
+
+.img-client {
+  width: 10%;
+  height: 10%;
+}
+
+.quote {
+  border: 1px solid;
+  border-image: linear-gradient(to right, #1B1B1B, #1B1B1B00) 2;
+  width: 70%;
+}
+
+.recntWork .card {
+  width: 92%;
+}
+
+.bg-color1 {
+  background-color: #FFA217;
+}
+
+.bg-color1:hover {
+  box-shadow: 4px 4px #FFA2171A;
+}
+
+.bg-color2 {
+  background-color: #000AFF;
+}
+
+.bg-color2:hover {
+  box-shadow: 4px 4px #000AFF1A;
+}
+
+.bg-color3 {
+  background-color: #2AB090;
+}
+
+.bg-color3:hover {
+  box-shadow: 4px 4px #2AB0901A;
+}
+
+.Fintech {
+  background-color: #FFF6E9;
+  color: #FFA217;
+  width: 20%;
+}
+
+.EdTech {
+  background-color: #D0E6FF;
+  color: #000AFF;
+  width: 20%;
+}
+
+.Pharma {
+  background-color: #E0FFF8;
+  color: #2AB090;
+  width: 20%;
+}
